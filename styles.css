@@ -1,0 +1,18 @@
+.index-card{
+    height: 400px;
+    width: auto;
+    border-radius: 15px;
+    background-color: #474954;
+}
+.about{
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+}
+.description{
+    margin-right: 12rem;
+    padding-top: 6rem;
+}
+.name{
+    margin-left: 9rem;
+    padding-top: 3rem;
+}
