@@ -16,6 +16,14 @@
     margin-left: 9rem;
     padding-top: 3rem;
 }
-.inter{
-    padding-top: 4rem;
+.index-circle{
+    padding-left: .5rem;
+    padding-top: 6rem;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 70%;
+    background-color: #474954;
+}
+.Education{
+    padding-bottom: 100px;
 }
