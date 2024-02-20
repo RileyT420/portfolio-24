@@ -6,7 +6,7 @@
 }
 .about{
     padding-bottom: 3rem;
-    padding-left: 3rem;
+    padding-left: 5rem;
 }
 .description{
     margin-right: 12rem;
@@ -57,4 +57,12 @@
 }
 .education{
     text-align: center;
+}
+.contact{
+    padding-left: 7rem;
+    padding-top: 30px;
+}
+.contacts{
+    padding-left: 9rem;
+    padding-top: 30px;
 }
