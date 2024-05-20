@@ -2,7 +2,7 @@
     height: 400px;
     width: auto;
     border-radius: 15px;
-    background-color: #474954;
+    background-color: #474954;  
 }
 .about{
     padding-bottom: 3rem;
@@ -19,13 +19,13 @@
 .index-circle{
     padding-left: .5rem;
     padding-top: 6rem;
-    height: 15rem;
-    width: 15rem;
+    height: 18rem;
+    width: 18rem;
     border-radius: 70%;
     background-color: #474954;
 }
 .Education{
-    padding-bottom: 100px;
+    padding-bottom: 80px;
 }
 .edu{
     padding-left: 90px;
@@ -90,4 +90,8 @@
     0%{background-position:0% 29%}
     50%{background-position:100% 72%}
     100%{background-position:0% 29%}
+}
+.wd{
+    padding-top: 20px;
+    margin-left: 20px;
 }
