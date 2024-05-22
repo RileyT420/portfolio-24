@@ -6,7 +6,7 @@
 }
 .about{
     padding-bottom: 3rem;
-    padding-left: 5rem;
+    padding-left: 1rem;
 }
 .description{
     margin-right: 12rem;
@@ -68,30 +68,29 @@
 }
 
 .background {
-    background: linear-gradient(279deg, #f7f7f7, #6e7271);
+    background: linear-gradient(64deg, #ffffff, #7a7e7d);
     background-size: 400% 400%;
 
-    -webkit-animation: AnimationName 17s ease infinite;
-    -moz-animation: AnimationName 17s ease infinite;
-    animation: AnimationName 17s ease infinite;
+    -webkit-animation: AnimationName 12s ease infinite;
+    -moz-animation: AnimationName 12s ease infinite;
+    animation: AnimationName 12s ease infinite;
 }
 
 @-webkit-keyframes AnimationName {
-    0%{background-position:0% 29%}
-    50%{background-position:100% 72%}
-    100%{background-position:0% 29%}
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
 }
 @-moz-keyframes AnimationName {
-    0%{background-position:0% 29%}
-    50%{background-position:100% 72%}
-    100%{background-position:0% 29%}
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
 }
 @keyframes AnimationName {
-    0%{background-position:0% 29%}
-    50%{background-position:100% 72%}
-    100%{background-position:0% 29%}
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
 }
 .wd{
-    padding-top: 20px;
-    margin-left: 20px;
+margin-left: 20px;
 }
